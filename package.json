@@ -1,0 +1,22 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "call webservice soap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenThanhThinh/soap-test.git"
+  },
+  "keywords": [
+    "soap"
+  ],
+  "author": "Thinh Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenThanhThinh/soap-test/issues"
+  },
+  "homepage": "https://github.com/NguyenThanhThinh/soap-test#readme"
+}
